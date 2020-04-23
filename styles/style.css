@@ -1,11 +1,11 @@
 body{
   background-color: orange;
   font-family: 'Monaco', sans-serif;
-  color: white;
+  color: black;
 }
 
 body a{
-  color: white;
+  color: green;
 }
 
 header{
